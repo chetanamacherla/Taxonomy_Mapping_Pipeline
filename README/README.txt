@@ -1,4 +1,4 @@
-####Taxa Mapping - README text file####
+#### TaxonMap (Taxa Mapping) - README text file####
 
 
 Input file format - The Input file to this parser should be the out files from superfocus with a .m8 extension. You can give how many ever files as an input to this parser. You just need to have all the input files, python script(Mapping_Taxa.py) and the libraries in one directory.
